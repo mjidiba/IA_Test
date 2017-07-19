@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
     private static final float dotRadius = 1.0f;
 
 
+
     private IALocationManager mIALocationManager;
     private IAResourceManager mFloorPlanManager;
     private IATask<IAFloorPlan> mPendingAsyncResult;
